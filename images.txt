@@ -5,3 +5,4 @@ nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
 rustdesk/rustdesk-server
+jeessy/ddns-go
